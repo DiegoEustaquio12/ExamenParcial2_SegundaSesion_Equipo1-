@@ -1,0 +1,25 @@
+IO_LOC "A[0]" 38;
+IO_LOC "A[1]" 37;
+IO_LOC "A[2]" 36;
+IO_LOC "A[3]" 39;
+
+IO_LOC "B[0]" 25;
+IO_LOC "B[1]" 26;
+IO_LOC "B[2]" 27;
+IO_LOC "B[3]" 28;
+
+IO_LOC "U[0]" 29;
+IO_LOC "U[1]" 30;
+IO_LOC "U[2]" 33;
+IO_LOC "U[3]" 34;
+
+IO_LOC "Y[0]" 85;
+IO_LOC "Y[1]" 84;
+IO_LOC "Y[2]" 83;
+IO_LOC "Y[3]" 82;
+
+IO_LOC "sel[0]" 40;
+IO_LOC "sel[1]" 35;
+
+IO_LOC "en" 41;
+IO_LOC "modo" 42;
